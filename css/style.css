@@ -124,6 +124,22 @@ figcaption {
     text-align: right;
     padding-right: 20px;
 }
+/*Call to Action */
+.ctaSection{
+    background-color: #3882f6;
+    height: fit-content;
+    margin: 50px 120px;
+}
+.ctaText{
+    margin: 50px 40px;
+}
+.buttonTwo{
+    border: #f9faf8;
+    border-style: solid;
+    width: fit-content;
+}
+
+/*Footer */
 
 /*Style Classes */
 .background{
