@@ -156,8 +156,12 @@ footer {
     margin-top: 50px;
     width: 100%;
     height: 100px;
+    display: flex;
+    justify-content: center;
 }
-
+.copywrite{
+    align-self: center;
+}
 /*Style Classes */
 .background{
     background-color: #1f2937;
